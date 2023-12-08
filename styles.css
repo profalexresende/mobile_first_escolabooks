@@ -1,11 +1,17 @@
+/*
+link do figma: 
+https://www.figma.com/file/sSMbIqKaGBd66Y8roxTk2p/AluraBooks?type=design&mode=design
+
+link das imagens:
+https://caelum-online-public.s3.amazonaws.com/2529-html-css-responsividade-mobile-first/imagens.zip
+*/
+@import url('styles/header.css');
 :root {
     --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
 }
 
 body {
     background-color: var(--cor-de-fundo);
 }
 
-h1 {
-   background-color: white; 
-}
